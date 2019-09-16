@@ -2,7 +2,7 @@
 
 namespace ClassLib.Two
 {
-    public class Class1
+    public class SomeFuncs
     {
     }
 }
