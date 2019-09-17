@@ -8,5 +8,10 @@ namespace ClassLib.One
         {
             //some mods
         }
+
+        public void NewMethod()
+        {
+
+        }
     }
 }
