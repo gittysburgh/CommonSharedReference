@@ -6,7 +6,7 @@ namespace ClassLib.Two
     {
         public SomeFuncs()
         {
-
+            //some mods added from the submodule
         }
 
     }
