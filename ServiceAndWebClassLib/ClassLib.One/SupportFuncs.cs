@@ -7,6 +7,12 @@ namespace ClassLib.One
         public SupportFunctions()
         {
             //changes in the submodule from main repo
+            //some mods
+        }
+
+        public void NewMethod()
+        {
+
         }
     }
 }
