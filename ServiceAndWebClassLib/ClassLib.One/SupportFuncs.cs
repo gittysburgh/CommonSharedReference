@@ -12,7 +12,7 @@ namespace ClassLib.One
 
         public void NewMethod()
         {
-
+            //changes-1a
         }
     }
 }
