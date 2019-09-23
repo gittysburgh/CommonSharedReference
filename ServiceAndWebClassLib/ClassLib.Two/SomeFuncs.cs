@@ -6,7 +6,11 @@ namespace ClassLib.Two
     {
         public SomeFuncs()
         {
+<<<<<<< Updated upstream
             //some mods added from the submodule
+=======
+            //some mods added from External repository
+>>>>>>> Stashed changes
         }
 
     }
